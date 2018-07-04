@@ -1,0 +1,22 @@
+{
+  "name": "bookmeter",
+  "version": "0.0.1",
+  "description": "api for bookmeter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ogontaro/bookmeter.git"
+  },
+  "keywords": [
+    "bookmeter"
+  ],
+  "author": "ogontaro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ogontaro/bookmeter/issues"
+  },
+  "homepage": "https://github.com/ogontaro/bookmeter#readme"
+}
