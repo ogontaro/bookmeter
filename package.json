@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/ogontaro/bookmeter/issues"
   },
-  "homepage": "https://github.com/ogontaro/bookmeter#readme"
+  "homepage": "https://github.com/ogontaro/bookmeter#readme",
+  "devDependencies": {
+    "webpack": "^4.16.2",
+    "webpack-cli": "^3.1.0"
+  }
 }
